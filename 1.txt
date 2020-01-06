@@ -1,1 +1,1 @@
-one two three 123 45 666Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
